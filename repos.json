@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "akita",
-      "repo": "https://github.com/LineageOS/android_device_google_akita-kernels"
+      "repo": "https://github.com/LineageOS/android_device_google_akita"
       "branch": "lineage-23.2",
       "device": "akita"
     },
